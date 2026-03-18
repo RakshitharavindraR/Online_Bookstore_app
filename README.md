@@ -15,5 +15,5 @@ This is a full-stack web application developed using Java Spring Boot and MySQL.
 - REST API integration
 - Simple and responsive UI
 
-## 📂 Project Structure
+
 
