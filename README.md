@@ -1,54 +1,26 @@
-# 📚 Online Bookstore Web Application
+Overview
+This is a simple full-stack web application to manage books. Users can view, add, and manage book details through a web interface.
 
-## 🚀 Project Overview
-This is a full-stack web application developed using Java Spring Boot and MySQL. The application allows users to add and view books through a simple and interactive user interface.
-
-## 🛠️ Tech Stack
-- Backend: Java, Spring Boot
-- Frontend: HTML, CSS, JavaScript
-- Database: MySQL
-- API: RESTful services
-
-## ✨ Features
-- Add new books
-- View list of books
-- REST API integration
-- Simple and responsive UI 
-
- 📂 Project Structure
-online-bookstore-app/
-├── backend/
-├── frontend/
-├── database.sql
-└── README.md
-
-## ⚙️ How to Run
-
-1. Clone the repository  
-
-2. Create database in MySQL 
-
-3. Configure database in application.properties  
-
-4. Run Spring Boot application  
+🛠️Tech Stack
+ -Backend: Java, Spring Boot
+ -Frontend: HTML, CSS, JavaScript
+ -Database: MySQL
+ -Architecture: RESTful API
  
-5. Open frontend  
-- Run `index.html` in browser  
-
-## 📸 Screenshots
-
-### Book List
-![Book List](book-list.png)
-
-### Add Book
-![Add Book](add-book.png)
-
-## 🎯 Learning Outcomes
-- Built REST APIs using Spring Boot  
-- Integrated frontend with backend  
-- Performed CRUD operations using MySQL  
-
-
+✨Features
+ -View all books
+ -Add new books
+ -Manage book records
+ -REST API integration 
+ 
+ ▶️ How to Run
+  Backend
+ -Open project in IntelliJ/Eclipse
+ -Configure MySQL in application.properties
+ -Run BookstoreApplication.java
+ 
+ Frontend
+  -Open index.html in browser 
 
 
 
